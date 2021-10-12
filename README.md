@@ -11,6 +11,13 @@ Go inside the cloned folder and type in and install the pod dependencies pod ins
 Then build and run the application using the simulator (or iOS Mobile platform)
 
 ## Step 4
-![alt text](https://github.com/sruthicsankar/MachineTest/blob/master/screenshot.png?raw=true)
+![alt text](https://github.com/sruthicsankar/MachineTest/blob/master/img/screenshot0.png?raw=true)
 
 
+![alt text](https://github.com/sruthicsankar/MachineTest/blob/master/img/screenshot1.png?raw=true)
+
+
+![alt text](https://github.com/sruthicsankar/MachineTest/blob/master/img/screenshot2.png?raw=true)
+
+
+![alt text](https://github.com/sruthicsankar/MachineTest/blob/master/img/screenshot3.png?raw=true)
