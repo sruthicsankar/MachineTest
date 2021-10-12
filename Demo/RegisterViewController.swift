@@ -54,7 +54,7 @@ extension RegisterViewController: UITableViewDataSource, UITableViewDelegate {
         
         let user = arrUser[indexPath.row]
         
-        cell.tvEmail.text = user.firstName
+        cell.tvFName.text = user.firstName
         cell.tvLname.text = user.lastName
         cell.tvEmail.text = user.email
         cell.tvPhoneNo.text = user.phoneNumber
